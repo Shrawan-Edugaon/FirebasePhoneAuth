@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Firebase Phone Auth</string>
+    <string name="dodn_t_get_otp_resend">Dodn\'t get OTP? <b>Resend</b></string>
+</resources>
